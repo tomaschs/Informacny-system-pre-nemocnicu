@@ -7,6 +7,10 @@ Tento repozitár obsahuje jednoduchú ukážku zdravotníckeho informačného sy
 
 ---
 
+## Vyvýjané spoločne s:
+- [PavlOliver](https://github.com/PavlOliver)
+- [SamuelBL101](https://github.com/SamuelBL101)
+
 ## Štruktúra projektu
 
 ```text
