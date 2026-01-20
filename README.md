@@ -1,4 +1,4 @@
-# Projekt zdravotníckeho informačného systému
+# Nemocničný infomračný systém
 
 Tento repozitár obsahuje jednoduchú ukážku zdravotníckeho informačného systému pozostávajúcu z:
 
