@@ -1,6 +1,6 @@
 # Informačný systém pre nemocnicu
 
-Tento repozitár obsahuje jednoduchú ukážku zdravotníckeho informačného systému pozostávajúcu z:
+Tento repozitár obsahuje projekt zdravotníckeho informačného systému pre nemocnicu pozostávajúcu z:
 
 - **backendu** vo Flasku (Python, REST API, práca s CSV súbormi / databázou),
 - **frontendu** v JavaScripte/TypeScripte (webové UI),
@@ -10,6 +10,9 @@ Tento repozitár obsahuje jednoduchú ukážku zdravotníckeho informačného sy
 ## Vyvýjané spoločne s:
 - [PavlOliver](https://github.com/PavlOliver)
 - [SamuelBL101](https://github.com/SamuelBL101)
+
+## Používateľská príručka
+[`Pouzivatelska_prirucka.pdf`](Pouzivatelska_prirucka.pdf) 
 
 ## Štruktúra projektu
 
